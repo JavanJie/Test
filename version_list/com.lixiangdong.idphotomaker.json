@@ -1,5 +1,4 @@
 {
-  "com_lixiangdong_idphotomaker" : {
     "oppo" : {
       "update_logs" : [
         "增加美颜功能",
@@ -33,5 +32,4 @@
       "version_name" : "1.0",
       "update_policy" : 0
     }
-  }
 }
