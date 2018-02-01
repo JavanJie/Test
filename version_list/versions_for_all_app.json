@@ -8,7 +8,8 @@
         "修复bug"
       ],
       "version_code" : 1,
-      "version_name" : "1.0"
+      "version_name" : "1.0",
+      "update_policy" : 1
     },
     "xiaomi" : {
       "update_logs" : [
@@ -18,7 +19,8 @@
         "修复bug"
       ],
       "version_code" : 1,
-      "version_name" : "1.0"
+      "version_name" : "1.0",
+      "update_policy" : 2
     },
     "vivo" : {
       "update_logs" : [
@@ -28,7 +30,8 @@
         "修复bug"
       ],
       "version_code" : 1,
-      "version_name" : "1.0"
+      "version_name" : "1.0",
+      "update_policy" : 0
     }
   }
 }
