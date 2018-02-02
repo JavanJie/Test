@@ -6,8 +6,8 @@
       "增加裁剪功能",
       "修复bug"
     ],
-    "version_code": 1,
-    "version_name": "1.0",
+    "version_code": 100,
+    "version_name": "10.0",
     "update_policy": 1
   },
   "xiaomi": {
@@ -17,8 +17,8 @@
       "增加裁剪功能",
       "修复bug"
     ],
-    "version_code": 1,
-    "version_name": "1.0",
+    "version_code": 6,
+    "version_name": "1.2.3",
     "update_policy": 2
   },
   "vivo": {
@@ -28,8 +28,8 @@
       "增加裁剪功能",
       "修复bug"
     ],
-    "version_code": 1,
-    "version_name": "1.0",
+    "version_code": 11,
+    "version_name": "1.5",
     "update_policy": 0
   }
 }
